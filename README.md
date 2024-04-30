@@ -7,7 +7,6 @@
  /   /                               
 (__ /                                is here...
 ```
-I am an advanced computing student at ANU, specializing in systems and architecture. dedicated to building secure, scalable, resilient, and robust applications.
 
 - 👋 Check out my personal [blog](https://jeremiahxing.github.io/blog/) for articles and insights.
 
