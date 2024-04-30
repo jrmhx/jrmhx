@@ -8,14 +8,7 @@
 (__ /                                is here...
 ```
 
-- 👋 Check out my personal [blog](https://jeremiahxing.github.io/blog/) for articles and insights.
-
-<p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=JeremiahXing&show_icons=true&theme=bear" width="400"> -->
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=JeremiahXing&theme=dark&hide_border=true" width="400"> -->
-<!-- <img align="left" src="https://github.com/JeremiahXing/github-stats/blob/master/generated/overview.svg">
-<img align="left" src="https://github.com/JeremiahXing/github-stats/blob/master/generated/languages.svg"> -->
-</p>
+> my personal [blog](https://jeremiahxing.github.io/blog/) for articles and insights
 
 ---
 <p align="center">
