@@ -9,4 +9,4 @@
 ```
 > my personal [blog](https://jeremiahxing.github.io/blog/) for articles and insights
 ---
-[![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jrmhx&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jrmhx&show_icons=true&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
