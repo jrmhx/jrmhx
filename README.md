@@ -7,5 +7,6 @@
  /   /                               
 (__ /                                is here...
 ```
----
 > my personal [blog](https://jeremiahxing.github.io/blog/) for articles and insights
+---
+[![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jrmhx&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
