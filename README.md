@@ -11,3 +11,4 @@
 > my personal [blog](https://jeremiahxing.github.io/blog/) for articles and insights
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeremiahXing&langs_count=8)
