@@ -14,4 +14,4 @@
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jrmhx&show_icons=true&theme=tokyonight)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrmhx&size_weight=0.4&count_weight=0.6&theme=tokyonight&layout=compact&langs_count=10&hide=jupyter%20notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrmhx&size_weight=0.4&count_weight=0.6&theme=tokyonight&layout=compact&langs_count=10&hide=jupyter%20notebook,html)
